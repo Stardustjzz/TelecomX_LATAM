@@ -18,7 +18,6 @@ Este es un proyecto derivado de un Challenge de Alura. Challenge Telecom X: aná
 **Tecnologías utilizadas**
 
 - Google Colab
-- 
 - Python 3
 
 **Biblotecas utilizadas**
