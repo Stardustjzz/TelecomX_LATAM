@@ -6,13 +6,9 @@ Este es un proyecto derivado de un Challenge de Alura. Challenge Telecom X: aná
 **Este analisis contiene principalmente los resultados sobre :**
 
 -Importación y limpieza de datos
-
 -Transformación de datos
-
 -Analisis descriptivo
-
 -Distribución de evasión por variables categoricas
-
 -Infome final
 
 **Tecnologías utilizadas**
