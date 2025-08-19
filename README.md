@@ -3,7 +3,7 @@
 
 Este es un proyecto derivado de un Challenge de Alura. Challenge Telecom X: análisis de evasión de clientes, esta realizado en python dentro de el entorno de Google Colab, el cual es un analisis de datos Telecom X, dentro del proyecto "Churn de Clientes". La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes. Con este analisis se pretende recopilar, procesar y analizar los datos para desarrollar estrategias y reducir la evasión.
 
-**Este analisis contiene principalmente los resultados sobre :**
+**Este analisis contiene principalmente los resultados sobre : **
 
 -Importación y limpieza de datos
 -Transformación de datos
